@@ -1,0 +1,56 @@
+.photo{
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    width: 20%;
+    float: left;
+}
+.categories {
+    float: left;
+    margin-top: 2%;
+    margin-right: 5%;
+    padding: 1%;
+}
+.ProfileName {
+    margin-top: 5%;
+}
+
+
+#content {
+    margin-top: 2%;
+    text-align: justify;
+   
+}
+
+video {
+    width: 15%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    float: left;
+}
+
+.img {
+    width: 15%;
+    margin-right: 5%;
+    margin-bottom: 5%;  
+    
+}    
+
+img {
+    width: 100px;   
+}
+
+.music {
+    width: 25%;
+}
+
+.attachments {
+    width: 25%;
+    margin-right: 34%;
+    margin-bottom: 2%;
+    float: right;
+}
+
+.attach {
+    width: 30px;
+}
